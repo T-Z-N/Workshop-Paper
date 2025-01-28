@@ -1,14 +1,6 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{}
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\urlprefix}{URL }
 \providecommand{\doi}[1]{https://doi.org/#1}
-
-\bibitem{jacobides2018towards}
-Jacobides, M.G., Cennamo, C., Gawer, A.: Towards a theory of ecosystems.
-  Strategic management journal  \textbf{39}(8),  2255--2276 (2018)
-
-\bibitem{moore1993predators}
-Moore, J.F.: Predators and prey: a new ecology of competition. Harvard business
-  review  \textbf{71}(3),  75--86 (1993)
 
 \end{thebibliography}
