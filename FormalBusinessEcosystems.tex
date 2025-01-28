@@ -38,7 +38,7 @@ Green Energy Ecosystem}
 Georgios Meditskos\inst{1}\orcidID{0000-0003-4242-5245}
 }
 %
-\authorrunning{F. Author et al.}
+\authorrunning{Tüzün et al.}
 % First names are abbreviated in the running head.
 % If there are more than two authors, 'et al.' is used.
 %
@@ -54,20 +54,42 @@ Wehrgrabengasse 1-4, 4400, Steyr, Austria
 The abstract should briefly summarize the contents of the paper in
 150--250 words.
 
-\keywords{Business Ecosystem  \and Knowledge Representation \and Symbolic Artifical Intelligence.}
+\keywords{Business Ecosystem  \and Knowledge Representation \and Ontology \and Wind Energy \and Green Energy.}
 \end{abstract}
 %
 %
 %
 \section{Introduction}
 
-\subsection{Challange}
-\subsection{Business ecosystems}
-\subsection{Green Energy Ecosystem}
-\subsection{Research Question}
+\subsection{P1: Challange}
+To make critical decisions, organizations need to understand not only their internal operations but also the external environment where 
+they operate or may operate. 
+
+
+\subsection{P2: Business, Wind Energy Ecosystems}
+A business ecosystem is a ecosystem that consists not only the businesses but includes other types of organizations
+such as non-profits. Wind energy ecosystem on the other hand context specific ecosystem that consists of
+organizations that are related to wind energy production, distribution and maintenance. However such ecosystems 
+are not easy to understand and analyze due to the complex nature of the interactions between the organizations. Therefore,
+to understand this ecosystem, one need to capture the interactions between the organizations and represent them
+in a structured way.
+
+\subsection{P3: Knowledge Representation, Ecosystem Knowledge}
+One way of structring such interactions is to use ontologies. Ontologies are 
+
+\subsection{}
+\begin{itemize}
+    \item \textbf{P1: Challenge}
+    \item \textbf{P2: Business, Green, Wind Energy Ecosystems}
+    \item \textbf{P3: Knowledge Representation, Ecosystem Knowledge}
+    \item \textbf{P4: Ecosystem interactions}
+    \item \textbf{P5: Related Work and why they are insufficient}
+\end{itemize}
+
+\subsection*{\textbf{Research Question}}
 \begin{center}
-\textit{How can organizational interactions in the wind energy ecosystem 
-systematically captured and translated into structured formal knowledge representations to enable data-driven decisions?}
+    \textit{How can organizational interactions in the wind energy ecosystem 
+systematically captured and explicitized into structured, formal knowledge representations to enable data-driven decision making?}
 \end{center}
 
 \section{Methology}
@@ -130,12 +152,12 @@ systematically captured and translated into structured formal knowledge represen
     \smallskip
     \end{table}
 
-\subsection{OWL2}
+\subsection{Term Disambiguation}
 
-\subsection{Ontological Commitments}
+\subsection{OWL2 \& Ontological Commitments}
 
 \begin{itemize}
-    \item \textbf{ClassAssertion }
+    \item \textbf{ClassAssertion}
     \item \textbf{ClassHierarchyAssertion}
     \item \textbf{ClassDisjointnessAssertion}
     \item \textbf{ObjectPropertyAssertion}
@@ -143,18 +165,20 @@ systematically captured and translated into structured formal knowledge represen
     \item \textbf{Methodological Limitations}
 \end{itemize}
 
-\subsection*{Visualization}
-
-\subsubsection{js}
-
-\subsubsection{d3.js}
-
-Methodological Limitations
-
+\subsection{Query Language}
+\begin{itemize}
+    \item \textbf{SPARQL}
+    \item \textbf{Fuseki Server}
+\end{itemize}
+\subsection{Relationship Visualization}
+\begin{itemize}
+    \item \textbf{js and d3.js}
+\end{itemize}
 
 \section{Results\&Discussion}
 
 \subsection{Survey Results\&Discussion}
+
 \subsection{Ontology Development}
 \subsection{Information Retrieval with Sparql}
 \subsection{Visualization Results}
@@ -165,15 +189,10 @@ Methodological Limitations
 \appendix
 \section{Semi-Structured Survey}
 %\includepdf[pages=-]{survey.pdf}
-
-\section{Source Code for Ontology}
-\section{Source Code for Visualization}
+\section{Github Repo}
 
 \bibliographystyle{splncs04}
 \bibliography{reference}
-
-
-
 
 \end{document}
 
