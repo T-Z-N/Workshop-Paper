@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex FormalBusinessEcosystems"] 1738080754 "FormalBusinessEcosystems.aux" "FormalBusinessEcosystems.bbl" "FormalBusinessEcosystems" 1738080757 0
+["bibtex FormalBusinessEcosystems"] 1738138217 "FormalBusinessEcosystems.aux" "FormalBusinessEcosystems.bbl" "FormalBusinessEcosystems" 1738138312 0
   "./reference.bib" 1737639647 815 65a6e420b20385e322e644291886c027 ""
   "./splncs04.bst" 1737638453 32146 aadf770ded437d161532035219ea6f45 ""
-  "FormalBusinessEcosystems.aux" 1738080756 2822 7008e2357c2f94105df532f07f52cb66 "pdflatex"
+  "FormalBusinessEcosystems.aux" 1738138311 2948 b464d18f0295ad3f2c9332ea5a55f739 "pdflatex"
   (generated)
   "FormalBusinessEcosystems.bbl"
   "FormalBusinessEcosystems.blg"
   (rewritten before read)
-["pdflatex"] 1738080755 "c:/Users/P42770/OneDrive - FH OOe/Desktop/Workshop Paper/FormalBusinessEcosystems.tex" "FormalBusinessEcosystems.pdf" "FormalBusinessEcosystems" 1738080757 0
+["pdflatex"] 1738138311 "c:/Users/P42770/OneDrive - FH OOe/Desktop/Workshop Paper/FormalBusinessEcosystems.tex" "FormalBusinessEcosystems.pdf" "FormalBusinessEcosystems" 1738138312 0
   "C:/Users/P42770/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1738059419 84701 56fcbf37d9488b20c7a86ab7f6f3f43b ""
   "C:/Users/P42770/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk" 1719912218 22504 c2e3e659ee01aab849900bee3d3013e0 ""
   "C:/Users/P42770/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk" 1719912213 25420 a9383e22cfe31bf5f93f32c6a7d4dadf ""
@@ -71,10 +71,10 @@
   "C:/Users/P42770/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1686252040 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/P42770/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1686252040 7147 d80d8cf72d313443d08c13c1af59c90f ""
   "C:/Users/P42770/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "FormalBusinessEcosystems.aux" 1738080756 2822 7008e2357c2f94105df532f07f52cb66 "pdflatex"
-  "FormalBusinessEcosystems.bbl" 1738080754 172 617c4252a6d03be5f75673921efcfc3b "bibtex FormalBusinessEcosystems"
-  "FormalBusinessEcosystems.tex" 1738080746 6232 639810069750ca0900d5e73117831dac ""
-  "c:/Users/P42770/OneDrive - FH OOe/Desktop/Workshop Paper/FormalBusinessEcosystems.tex" 1738080746 6232 639810069750ca0900d5e73117831dac ""
+  "FormalBusinessEcosystems.aux" 1738138311 2948 b464d18f0295ad3f2c9332ea5a55f739 "pdflatex"
+  "FormalBusinessEcosystems.bbl" 1738138217 172 617c4252a6d03be5f75673921efcfc3b "bibtex FormalBusinessEcosystems"
+  "FormalBusinessEcosystems.tex" 1738138311 6148 f869a28f17f92ba3aac29b1ff296f428 ""
+  "c:/Users/P42770/OneDrive - FH OOe/Desktop/Workshop Paper/FormalBusinessEcosystems.tex" 1738138311 6148 f869a28f17f92ba3aac29b1ff296f428 ""
   "llncs.cls" 1737639269 43402 5fb5a2dc40571aa40f3d199c00cbb986 ""
   (generated)
   "FormalBusinessEcosystems.aux"

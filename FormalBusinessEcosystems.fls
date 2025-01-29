@@ -96,9 +96,9 @@ INPUT C:\Users\P42770\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm09
 INPUT C:\Users\P42770\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
 INPUT C:\Users\P42770\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
 INPUT C:\Users\P42770\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+INPUT C:\Users\P42770\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 OUTPUT FormalBusinessEcosystems.pdf
 INPUT C:\Users\P42770\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\P42770\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1000.tfm
 INPUT .\FormalBusinessEcosystems.bbl
 INPUT .\FormalBusinessEcosystems.bbl
 INPUT FormalBusinessEcosystems.bbl
